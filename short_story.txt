@@ -5,3 +5,5 @@ John liked the beach on Thursday
 John went to the forest
 
 It was raining
+
+It was sunny the next day!
